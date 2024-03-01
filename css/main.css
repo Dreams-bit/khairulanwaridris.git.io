@@ -2212,13 +2212,13 @@ input::-moz-focus-inner {
   background-color: #02182c;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/profile1.jpg);
+  background-image: url(../images/profile3.png);
   background-size: cover;
   position: absolute;
   top: 0%;
   right: 0%;
   bottom: 0;
-  left: 60%;
+  left: 55%;
 }
 
 /* Media query for mobile devices */
